@@ -1,10 +1,10 @@
 {
   "scope": "standalone Skill, local canvas and client tools only",
-  "version": "public-2026.11.06.1",
+  "version": "public-2026.11.06.2",
   "files": {
     "LICENSE": "cc7db2f643e2d6952d44aae875813ee3bd9d490d4f76cd19895045bca07bc329",
     "NOTICE.md": "4258b8ae7c39a24038f8bee12610345fda06a0af637bf9eadaa6e447b006cb82",
-    "README.md": "c4096dcdcd8262d37a0e4b3516d98b1960c8b5d05a9a426232a757bba14e1ada",
+    "README.md": "f462ea181eae09b7eb7ca47a3fe9f74867edda98086a472637efa212cc2f9bc4",
     "THIRD_PARTY_NOTICES.txt": "4c42a7d0804489fb39430614e240c813f66b1e77baa6a83bb694052caa990f3b",
     "canvas/AGENT.md": "743861df267eacf77f7eeabd71cccd6ece95a51c55e9aea7d1da4863fd74488c",
     "canvas/LICENSE": "cc7db2f643e2d6952d44aae875813ee3bd9d490d4f76cd19895045bca07bc329",
@@ -23,7 +23,7 @@
     "canvas/dist/demo/sample8.svg": "94691fcb0c75973706b8d0eed7308458c4493d0b61d4ab4327442bbd14ce6132",
     "canvas/dist/demo/sample9.svg": "c63c743f5858734f496a6bcbcb5cef165fe991c6ada8cc6e532f2187041c797c",
     "canvas/dist/index.html": "3efea6dd605f2cd9de9bd1d5a09f8397b4e53d1087730ab24f112298cda7679b",
-    "canvas/dist/welcome.html": "3280f6338a5d1d7e3ef5417bbeade4fa831ed6d5ba11d0af7f785ce2e16b4816",
+    "canvas/dist/welcome.html": "3583cf05e914eefd565824a3a2998b15b76c019110917530431112d645ad49f7",
     "canvas/index.html": "5a624e01f79cbbce4d241b7918aa12d3fd7030626dd5df27d94d074b85b5686d",
     "canvas/local-api.mjs": "eaabed7e68087ca4eecb7f1b9a73385d83ba03deebfe45b3a434b45dad636696",
     "canvas/package-lock.json": "8680f0e97b6f16b9846781ffbc0bf504916d2efc9cd65f7fd48e46881eb2bf15",
@@ -38,7 +38,7 @@
     "canvas/public/demo/sample7.svg": "d2d9e227b2bfc89b05f765a83fd19eee9fd9209113ed64252b722784ddec0c6a",
     "canvas/public/demo/sample8.svg": "94691fcb0c75973706b8d0eed7308458c4493d0b61d4ab4327442bbd14ce6132",
     "canvas/public/demo/sample9.svg": "c63c743f5858734f496a6bcbcb5cef165fe991c6ada8cc6e532f2187041c797c",
-    "canvas/public/welcome.html": "3280f6338a5d1d7e3ef5417bbeade4fa831ed6d5ba11d0af7f785ce2e16b4816",
+    "canvas/public/welcome.html": "3583cf05e914eefd565824a3a2998b15b76c019110917530431112d645ad49f7",
     "canvas/serve.mjs": "39374656d2aefb4bc201f0947f4d87cf5ee2b59b6522d158ed98426328b2f4e8",
     "canvas/src/App.jsx": "d6713b1cf80d72b777499fa757a88771e678df4e2180f77a7ced50c29049cb82",
     "canvas/src/OverviewLayer.jsx": "24e6afd4acfd5b16f67307b9351b6b94f4b9691a3791a0d036fb780ab2e96539",
@@ -51,10 +51,10 @@
     "canvas/src/useProjects.js": "18298cd048b555f8e0f7fd93274533d7ccd8048b3b5c4a917b51db076d607607",
     "canvas/test.mjs": "fa3abe81a9ae9d08966d3b6105a2891d3c332f73339544960fb6ed7b34fa40b3",
     "canvas/vite.config.js": "a421e178438da3edd929b6e3215a139a2f254e0e38046d5e36a02b2924b97a83",
-    "scripts/audit-release.py": "f48f1012fe8cf2183c57b08bc24cd253c69642e1fb4a6c1b85cc6c0e074da256",
+    "scripts/audit-release.py": "d4c74bd3b1e4f5bc659ab3115cbc3886e8ae540e398f759428efebbba0c53f59",
     "scripts/client-installer.py": "75b2f05d940453589db5944c12137ccde0c160e8c189605d9f190f25221aa820",
     "scripts/onboard.py": "7474ea0f055a3fadfac6b9fc57afd05a1650caa2b9c59f7a3af1088b4b06aa9a",
-    "skills/youkou-media-creator/SKILL.md": "a3034652aa3e3c72fbf4cbdaa14a71c19c1ce8dd47a9a161c7b4b30d53ff21c5",
+    "skills/youkou-media-creator/SKILL.md": "7389db5b8a808385db0d679a21309d4f5f346e3bad6a64017304fdea1031c821",
     "skills/youkou-media-creator/references/creative-rules.md": "0366838eb49adf6937c001a41936c05cc5aaf342c97b4ba51b614d751c7a3be2",
     "tests/test_onboarding.py": "7219f2bae6f16f9f7154ed9c708fad899e1f024ac3886b5987dc064fe3085d85"
   }

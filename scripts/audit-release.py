@@ -47,7 +47,7 @@ def main():
     try:
         files=inspect();path=ROOT/'PUBLICATION_MANIFEST.json'
         if args.write_manifest:
-            path.write_text(json.dumps({'scope':'standalone Skill, local canvas and client tools only','version':'public-2026.11.06.1','files':files},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+            path.write_text(json.dumps({'scope':'standalone Skill, local canvas and client tools only','version':'public-2026.11.06.2','files':files},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
         else:
             manifest=json.loads(path.read_text(encoding='utf-8'))
             if manifest.get('files')!=files:raise ValueError('文件变化或缺失，与已审阅清单不一致')
